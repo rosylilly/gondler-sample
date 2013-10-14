@@ -1,0 +1,15 @@
+# Gondler Sample
+
+Sample application for [gondler](http://aduca.org/gondler).
+
+## How to run
+
+```
+$ git clone https://github.com/rosylilly/gondler-sample.git
+$ cd gondler-sample
+$ gem install gondler
+$ gondler install
+...
+$ gondler go run main.go
+$ open dist.html
+```
